@@ -1,0 +1,28 @@
+a#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll, 
+a#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection, 
+a#CybotCookiebotDialogBodyLevelButtonLevelOptinDeclineAll,
+a#CybotCookiebotDialogBodyButtonAccept{
+   	font-size:11pt!important;
+    border-radius: 50px!important;
+    padding: 10px 15px!important;
+}
+a#CybotCookiebotDialogBodyButtonDecline{
+   padding: 5px 0px!important;
+   border-radius: 50px!important;
+    
+}
+a#CybotCookiebotDialogBodyLevelButtonLevelOptinDeclineAll, 
+a#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection,
+a#CybotCookiebotDialogBodyButtonDecline{
+	font-size:7pt!important;
+	height:100%!important
+}
+#CybotCookiebotDialogPoweredbyImage {
+    background-image: url(https://noorderinzicht.nl/wp-content/uploads/2022/01/Combined-Shape.svg);
+    background-repeat: no-repeat;
+    width: 100px!important;
+    height: auto;
+    background-size: contain;
+    position: relative;
+    object-position: -99999px 99999px;
+}
