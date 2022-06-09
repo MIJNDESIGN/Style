@@ -26,3 +26,19 @@ a#CybotCookiebotDialogBodyButtonDecline{
     position: relative;
     object-position: -99999px 99999px;
 }
+
+
+update
+
+#CybotCookiebotDialogPoweredbyCybot, #CybotCookiebotDialogPoweredByText{
+	display:none!important;
+}
+#CybotCookiebotDialogPoweredbyImage {
+	background-image: url(https://enalie.nl/wp-content/uploads/2022/01/favicon-alie.png)!important;
+    background-repeat: no-repeat!important;
+    width: 75px!important;
+    height: auto;
+    background-size: contain!important;
+    position: relative;
+    object-position: -99999px 99999px;
+}
