@@ -34,11 +34,37 @@ update
 	display:none!important;
 }
 #CybotCookiebotDialogPoweredbyImage {
-	background-image: url(https://enalie.nl/wp-content/uploads/2022/01/favicon-alie.png)!important;
+	background-image: url(https://vanderkooijtechniek.nl/wp-content/uploads/2022/07/favicon-van-der-kooij-techniek.png)!important;
     background-repeat: no-repeat!important;
     width: 75px!important;
     height: auto;
     background-size: contain!important;
     position: relative;
     object-position: -99999px 99999px;
+}
+#CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogBodyEdgeMoreDetails a {
+    align-items: center;
+    color: color(14)!important;
+    display: flex;
+    font-weight: 600;
+    text-decoration: none;
+}
+#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
+    background-color: transparent;
+	border: 2px solid color(14)!important;
+}
+#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+    background-color: color(15)!important;
+    border-color: color(15)!important;
+    color: #ffffff;
+}
+#CybotCookiebotDialogNav .CybotCookiebotDialogNavItemLink.CybotCookiebotDialogActive {
+    border-bottom: 1px solid color(15)!important;
+    color: color(15)!important;
+}
+#CybotCookiebotDialogNav .CybotCookiebotDialogNavItemLink:hover {
+    color: color(15)!important;
+}
+#CybotCookiebotDialog .CookieCard .CybotCookiebotDialogDetailBodyContentCookieContainerButton:hover, #CybotCookiebotDialog .CookieCard .CybotCookiebotDialogDetailBodyContentIABv2Tab:hover, #CybotCookiebotDialogDetailBodyContentCookieContainerTypes .CybotCookiebotDialogDetailBodyContentCookieProvider:not(.CybotCookiebotDialogDetailBodyContentCookieInfoCount):hover {
+    color: color(15)!important;
 }
